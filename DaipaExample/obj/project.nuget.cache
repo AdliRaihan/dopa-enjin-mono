@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G7meM0/LNQQEQz3Kj4NtNp2JrMSzMXOYHtwQrxvyrUskYPcDX9TM1ktVTmOJXnfbEdLg9BOCaDNlGR0n+23N5g==",
+  "success": true,
+  "projectFilePath": "E:\\[3] Projects Mono Games\\DopaEngine\\DaipaExample\\DaipaExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AD\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

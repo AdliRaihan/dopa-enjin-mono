@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjlDG2cd/ibpgdnNfb+/1ONSp+RmHgEuOYImsIs7oKF3VwP24nj0cpp9GMNGTvr/0j+vQJawk05e54L3rDkr9w==",
+  "success": true,
+  "projectFilePath": "E:\\[3] Projects Mono Games\\DopaEngine\\DopaEngine\\DopaEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AD\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

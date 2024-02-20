@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fa5b8bcf-1ff3-485c-b1ed-e1411e9ee120": {
+      "ProjectGuid": "fa5b8bcf-1ff3-485c-b1ed-e1411e9ee120",
+      "DisplayName": "DopaEngine",
+      "ColorIndex": 0
+    },
+    "269461b9-a89c-484d-8a43-51b8719217a4": {
+      "ProjectGuid": "269461b9-a89c-484d-8a43-51b8719217a4",
+      "DisplayName": "DopaExample",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}

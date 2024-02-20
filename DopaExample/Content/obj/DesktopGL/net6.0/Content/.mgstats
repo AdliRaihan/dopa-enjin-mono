@@ -1,0 +1,8 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/All_Fire_Bullet_Pixel_16x16_00.png","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/FireRed16.xnb","TextureProcessor","Texture2DContent",47783,1024085,0.3399888
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/BasicSquare.png","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/BasicSquare.xnb","TextureProcessor","Texture2DContent",234,16469,0.2699962
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/Button3x.png","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/Button3x.xnb","TextureProcessor","Texture2DContent",376,41557,0.3034708
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/DefaultFont.spritefont","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0.6526638
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/GoldCoin.png","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/GoldCoin.xnb","TextureProcessor","Texture2DContent",864,64601,0.3515227
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/IslandSheets.png","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/IslandSheets.xnb","TextureProcessor","Texture2DContent",14336,165973,0.3151803
+"E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/MapExample.xml","E:/[3] Projects Mono Games/DopaEngine/DopaExample/Content/bin/DesktopGL/Content/MapExample.xnb","PassThroughProcessor","Object",144,177,0.2545466
